@@ -1,0 +1,5 @@
+CRUD
+Node.js MySql React 
+
+"type": "commonjs",
+เปลี่ยน type ใน package.json ให้เป็น module
